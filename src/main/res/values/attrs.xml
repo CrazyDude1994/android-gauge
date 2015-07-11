@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GaugeView">
+        <attr name="startAngle" format="float" />
+        <attr name="endAngle" format="float" />
+        <attr name="startLength" format="dimension" />
+        <attr name="endLength" format="dimension" />
+        <attr name="maxValue" format="float" />
+        <attr name="coefX" format="float" />
+        <attr name="coefY" format="float" />
+        <attr name="arrowDrawable" format="reference" />
+        <attr name="arrowColor" format="reference|color" />
+        <attr name="arrowWidth" format="dimension|float|integer" />
+    </declare-styleable>
+</resources>
